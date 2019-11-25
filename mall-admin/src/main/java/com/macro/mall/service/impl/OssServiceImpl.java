@@ -23,7 +23,7 @@ import java.util.Date;
  * oss上传管理Service实现类
  * Created by macro on 2018/5/17.
  */
-@Service
+//@Service
 public class OssServiceImpl implements OssService {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(OssServiceImpl.class);
